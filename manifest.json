@@ -1,0 +1,10 @@
+{
+  "name": "Hop",
+  "version": "1.0",
+  "description": "Run, and hop over as many obstacles as you can!",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
